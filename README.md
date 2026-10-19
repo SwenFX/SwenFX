@@ -11,7 +11,7 @@
 
 <br/>
 
-<a href="mailto:swen.zeller@bettybarclay.com">
+<a href="mailto:zeller.swen@gmail.com">
   <img src="https://img.shields.io/badge/E--Mail-Kontakt-8A5A44?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" />
 </a>
 <a href="https://www.linkedin.com/in/swen-zeller-b81232160/">

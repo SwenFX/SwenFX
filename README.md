@@ -101,7 +101,7 @@ Ich interessiere mich besonders für den Austausch zu:
 
 ### Lass uns vernetzen
 
-<a href="mailto:swen.zeller@bettybarclay.com">E-Mail schreiben</a>
+<a href="mailto:zeller.swen@gmail.com">E-Mail schreiben</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/swen-zeller-b81232160/">LinkedIn</a>
 
